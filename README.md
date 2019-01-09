@@ -1,2 +1,0 @@
-# styledcssgrid
-Created with CodeSandbox
